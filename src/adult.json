@@ -170,7 +170,7 @@
         "isExpanded": "True",
         "questions": [{
             "label": "Visit date",
-            "questionInfo":"",
+            "questionInfo":"Visit Date",
             "type": "encounterDatetime",
             "required": "true",
             "default": "",
